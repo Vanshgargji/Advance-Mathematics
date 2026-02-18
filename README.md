@@ -1,4 +1,4 @@
-# Assignment – Learning Probability Density Function Parameters
+# Assignment – Advance Mathematics 
 
 ## Objective
 
