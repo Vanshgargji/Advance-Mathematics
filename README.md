@@ -62,3 +62,5 @@ The final learned parameters are:
 * Understanding non-linear data transformation
 * Estimation of probability distribution parameters
 * Practical application of statistical concepts such as mean and variance
+
+## We are going to test this assignment on codefox application produciton 
